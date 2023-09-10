@@ -1,5 +1,8 @@
 /* Set warna background untuk tag body */
 
-body {
+/* body {
     background-color: blueviolet;
-}
+} */
+
+@import url(./style1.css);
+@import url(./style2.css);
