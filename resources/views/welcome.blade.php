@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    @vite('resource/css/app.css')
+    @vite('resources/css/app.css')
 </head>
 <body>
     <h1>Belajar Laravel</h1>
-    @vite('resource/js/app.js')
+    @vite('resources/js/app.js')
 </body>
 </html>
